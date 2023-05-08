@@ -1,0 +1,20 @@
+#create-container {
+  place-items: center center;
+  display: grid;
+  min-height: 75vh;
+}
+
+div.create-tbox {
+  max-width: 1000px;
+  padding: 10px;
+}
+
+div.create-tbox .submit-button {
+  margin-top: 5px;
+  display: grid;
+}
+
+div.create-tbox .ql-snow .ql-editor {
+  min-height: 275px;
+  background-color: white;
+}

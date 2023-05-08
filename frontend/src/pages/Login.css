@@ -1,0 +1,40 @@
+.login-page {
+    background-image: url("../images/skymountainbg.jpg"); 
+    background-position: top left;
+    background-size: 150%;
+}
+
+.login-page .head {
+    margin-bottom: 20px;
+}
+
+#login-container {
+    place-items: center center;
+    display: grid;
+    min-height: 100vh;
+}
+
+#login-form a, .link {
+    color: white;
+    text-decoration: none; 
+}
+
+#login-form a:hover, .link:hover {
+    color: #97c9c7!important;
+    text-decoration: none;
+  }
+
+#login-form {
+    max-width: 365px;
+    background-color: #212529;
+    color: white;
+    padding-top: 35px;
+    padding-bottom:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
